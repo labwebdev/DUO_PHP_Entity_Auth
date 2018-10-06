@@ -74,7 +74,6 @@ else if (isset($_POST['user']))  {
     echo "<form action='index.php' method='post'>";
     echo "<input type='submit' value='Reset' />";
     echo "</form>";
-    //}
 }
 
 /*
